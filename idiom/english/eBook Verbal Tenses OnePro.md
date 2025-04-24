@@ -385,4 +385,4 @@ Com este Cheat Sheet, revise rapidamente estruturas, exemplos e usos para evolui
 **FIM DO EBOOK.**  
 Pronto para diagramação!
 
-Fonte: GPT 4.1 (Adapta.org)
+Fonte: ONE Pro (Adapta.org)
