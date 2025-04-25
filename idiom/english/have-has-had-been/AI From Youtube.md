@@ -167,4 +167,11 @@ Evite usar com datas específicas:
 
 ---
 
+## Prompt  
+
+Formate a aula de inglês abaixo, de maneira estruturada em tópicos e separando os exemplos (que estão em inglês).
+Texto a ser formatado: COLAR_TEXTO_AQUI
+
+---
+
 [Fonte](https://www.youtube.com/watch?v=DSGNGF7_Fs8)
