@@ -1,0 +1,414 @@
+# Lista Consolidada de Algoritmos (LeetCode e HackerRank)
+
+Total de algoritmos únicos: 388
+
+- 3Sum
+- A Chessboard Game
+- A Chocolate Fiesta
+- A Very Big Sum
+- ACM ICPC Team
+- AND Product
+- Abbreviation
+- Absolute Permutation
+- Add and Search Word
+- Almost Sorted
+- Alternating Characters
+- Anagram
+- Angry Professor
+- Append and Delete
+- Apple and Orange
+- Army Game
+- Array Splitting
+- Ashton and String
+- BFS: Shortest Reach in a Graph
+- Balanced Brackets
+- Bear and Steady Gene
+- Beautiful Binary String
+- Beautiful Days at the Movies
+- Beautiful Pairs
+- Beautiful Triplets
+- Best Time to Buy and Sell Stock
+- Between Two Sets
+- Bigger is Greater
+- Bill Division
+- Binary Tree Level Order Traversal
+- Binary Tree Maximum Path Sum
+- Birthday Cake Candles
+- Breaking the Records
+- Bricks Game
+- Build a String
+- Caesar Cipher
+- CamelCase
+- Candies
+- Castle on the Grid
+- Cats and a Mouse
+- Cavity Map
+- Chief Hopper
+- Chocolate Feast
+- Cipher
+- Circular Array Rotation
+- Climbing Stairs
+- Climbing the Leaderboard
+- Clique
+- Clone Graph
+- Closest Numbers
+- Coin Change
+- Coin on the Table
+- Combination Sum
+- Common Child
+- Compare the Triplets
+- Connected Cells in a Grid
+- Connecting Towns
+- Construct Binary Tree from Preorder and Inorder Traversal
+- Construct the Array
+- Contacts
+- Container With Most Water
+- Contains Duplicate
+- Correctness and the Loop Invariant
+- Count Luck
+- Counter Game
+- Counter game
+- Counting Bits
+- Counting Sort 1
+- Counting Sort 2
+- Counting Valleys
+- Course Schedule
+- Cut the Tree
+- Cut the sticks
+- Cutting Boards
+- Cutting Paper Squares
+- DFS: Connected Cell in a Grid
+- Day of the Programmer
+- Decode Ways
+- Designer PDF Viewer
+- Detect Cycle in a Linked List
+- Determining DNA Health
+- Diagonal Difference
+- Dijkstra: Shortest Reach 2
+- Divisible Sum Pairs
+- Diwakar and The Balls
+- Down to Zero II
+- Drawing Book
+- Electronics Shop
+- Encryption
+- Equal
+- Equal Stacks
+- Equalize the Array
+- Even Tree
+- Extra Long Factorials
+- Fair Rations
+- Far Vertices
+- Fibonacci Modified
+- Filling Jars
+- Find Digits
+- Find Median from Data Stream
+- Find Minimum in Rotated Sorted Array
+- Find the Median
+- Find the Running Median
+- Flatland Space Stations
+- Flipping bits
+- Flipping the Matrix
+- Floyd : City of Blinding Lights
+- Forming a Magic Square
+- Fraudulent Activity Notifications
+- Funny String
+- Game of Stones
+- Game of Thrones - I
+- Gemstones
+- Goodland Electricity
+- Grading Students
+- Greedy Florist
+- Grid Challenge
+- Gridland Metro
+- Group Anagrams
+- HackerRank in a String!
+- Halloween Sale
+- Handshake
+- Happy Ladybugs
+- Hexagonal Grid
+- Highest Value Palindrome
+- House Robber
+- House Robber II
+- Ice Cream Parlor
+- Identify Smith Numbers
+- Implement Trie (Prefix Tree)
+- Insert Interval
+- Insertion Sort - Part 1
+- Insertion Sort - Part 2
+- Jack goes to Rapture
+- Jesse and Cookies
+- Jim and the Orders
+- Journey to the Moon
+- Jump Game
+- Jumping on the Clouds
+- Jumping on the Clouds: Revisited
+- K Candy Store
+- Kingdom Division
+- Knapsack
+- Kruskal (MST): Really Special Subtree
+- Kth Smallest Element in a BST
+- Largest Permutation
+- Largest Rectangle
+- Larry's Array
+- Lego Blocks
+- Leonardo's Prime Factors
+- Library Fine
+- Lilys Homework
+- Lisa's Workbook
+- Lonely Integer
+- Longest Common Prefix
+- Longest Common Subsequence
+- Longest Consecutive Sequence
+- Longest Increasing Subsequence
+- Longest Palindromic Substring
+- Longest Repeating Character Replacement
+- Longest Substring Without Repeating Characters
+- Lowest Common Ancestor of BST
+- Luck Balance
+- Making Anagrams
+- Manasa and Combinatorics
+- Manasa and Factorials
+- Manasa and Pizza
+- Manasa and Stones
+- Manasa and Sub-sequences
+- Manasa and The Acting
+- Manasa and The Arts
+- Manasa and The Beauty
+- Manasa and The Biology
+- Manasa and The Chemistry
+- Manasa and The Civics
+- Manasa and The Computer Science
+- Manasa and The Cooking
+- Manasa and The Dance
+- Manasa and The Drama
+- Manasa and The Economics
+- Manasa and The English
+- Manasa and The Fashion
+- Manasa and The Fitness
+- Manasa and The Gadgets
+- Manasa and The Games
+- Manasa and The Gardening
+- Manasa and The Geography
+- Manasa and The Health
+- Manasa and The History
+- Manasa and The Internet
+- Manasa and The Mathematics
+- Manasa and The Maths
+- Manasa and The Meditation
+- Manasa and The Mobile
+- Manasa and The Modelling
+- Manasa and The Movies
+- Manasa and The Music
+- Manasa and The Nutrition
+- Manasa and The Painting
+- Manasa and The Patterns
+- Manasa and The Philosophy
+- Manasa and The Photography
+- Manasa and The Physics
+- Manasa and The Political Science
+- Manasa and The Psychology
+- Manasa and The Reading
+- Manasa and The Science
+- Manasa and The Shopping
+- Manasa and The Singing
+- Manasa and The Sky
+- Manasa and The Social Media
+- Manasa and The Sociology
+- Manasa and The Sports
+- Manasa and The TV Shows
+- Manasa and The Technology
+- Manasa and The Travelling
+- Manasa and The Web Series
+- Manasa and The Writing
+- Manasa and The Yoga
+- Manasa loves Math
+- Mandragora Forest
+- Mark and Toys
+- Mars Exploration
+- Matrix Layer Rotation
+- Matrix Tracing
+- Max Min
+- Maximize Sum
+- Maximizing XOR
+- Maximum Depth of Binary Tree
+- Maximum Palindromes
+- Maximum Perimeter Triangle
+- Maximum Product Subarray
+- Maximum Subarray
+- Merge Intervals
+- Merge K Sorted Lists
+- Merge Two Sorted Lists
+- Migratory Birds
+- Mini-Max Sum
+- Minimum Absolute Difference in an Array
+- Minimum Average Waiting Time
+- Minimum Distances
+- Minimum Draws
+- Minimum Penalty Path
+- Minimum Window Substring
+- Misere Nim
+- Missing Number
+- Missing Numbers
+- Modified Kaprekar Numbers
+- Morgan and a String
+- Mr K marsh
+- New Year Chaos
+- Nikita and the Game
+- Nim Game
+- No Prefix Set
+- Non-Divisible Subset
+- Non-overlapping Intervals
+- Number Line Jumps
+- Number of 1 Bits
+- Number of Islands
+- Organize Containers of Balls
+- Pacific Atlantic Water Flow
+- Pairs
+- Palindrome Index
+- Palindrome Number
+- Palindromic Border
+- Palindromic Substrings
+- Pangrams
+- Password Cracker
+- Permuting Two Arrays
+- Picking Numbers
+- Play Game
+- Plus Minus
+- Poisonous Plants
+- Poker Nim
+- Possible Path
+- Prim's (MST): Special Subtree
+- Prime XOR
+- Priyanka and Toys
+- Product of Array Except Self
+- QHEAP1
+- Queen's Attack II
+- Queries with Fixed Length
+- Quicksort 1 - Partition
+- Recursive Digit Sum
+- Red John is Back
+- Remove Duplicates from Sorted Array
+- Remove Nth Node From End Of List
+- Reorder List
+- Repeated String
+- Restaurant
+- Reverse Bits
+- Reverse Integer
+- Reverse Shuffle Merge
+- Reverse a Linked List
+- Richie Rich
+- Roads and Libraries
+- Roads in HackerLand
+- Rotate Image
+- Running Time of Algorithms
+- Rust & Murderer
+- Sales by Match
+- Sam and substrings
+- Same Tree
+- Sansa and XOR
+- Save the Prisoner!
+- Search in Rotated Sorted Array
+- Separate the Numbers
+- Sequence Equation
+- Serialize and Deserialize Binary Tree
+- Service Lane
+- Set Matrix Zeroes
+- Sherlock and Anagrams
+- Sherlock and Array
+- Sherlock and Cost
+- Sherlock and GCD
+- Sherlock and MiniMax
+- Sherlock and Pairs
+- Sherlock and Permutations
+- Sherlock and Squares
+- Sherlock and The Beast
+- Sherlock and the Valid String
+- Short Palindrome
+- Simple Array Sum
+- Simple Text Editor
+- Snapping Tree
+- Solve Me First
+- Spiral Matrix
+- Staircase
+- Stock Maximize
+- Strange Counter
+- Strange Grid
+- String Construction
+- String Function Calculation
+- String Reduction
+- String Similarity
+- Subarray Division
+- Subset Component
+- Subset Sum
+- Subtree of Another Tree
+- Sum of Two Integers
+- Sum of k-th powers
+- Sum vs XOR
+- Summing Pieces
+- Super Reduced String
+- Synchronous Shopping
+- Taum and B'day
+- The Blacklist
+- The Bomberman Game
+- The Coin Change Problem
+- The Full Counting Sort
+- The Great XOR
+- The Grid Search
+- The Hurdle Race
+- The Indian Job
+- The Longest Common Subsequence
+- The Longest Increasing Subsequence
+- The Love-Letter Mystery
+- The Maximum Subarray
+- The Story of a Tree
+- The Time in Words
+- Time Conversion
+- Top K Frequent Elements
+- Tower Breakers
+- Travelling Salesman Problem
+- Tree Pruning
+- Truck Tour
+- Two Strings
+- Two Sum
+- Two Two
+- Unbounded Knapsack
+- Unique Paths
+- Utopian Tree
+- Valid Anagram
+- Valid Palindrome
+- Valid Parentheses
+- Validate Binary Search Tree
+- Viral Advertising
+- Waiter
+- Weighted Uniform Strings
+- Wet Shark and TwoSubsequences
+- What's Next?
+- Winning Lottery Ticket
+- Word Break Problem
+- Word Search
+- Word Search II
+- XOR Sum
+- Xoring Ninja
+- Yet Another Minimax Problem
+
+
+# Informações do CodeSignal (Nomes de Cursos/Paths)
+
+# CodeSignal Learning Paths and Courses (titles)
+
+## Learning Paths
+
+- Introduction to Programming with Python (5 courses, 122 practices)
+- Fundamental Coding Interview Prep with Python (5 courses, 84 practices)
+- Mastering Algorithms and Data Structures in Python (5 courses, 112 practices)
+- Full-Stack Engineering with JavaScript (6 courses, 103 practices)
+
+## Courses (within Mastering Algorithms and Data Structures in Python path)
+
+- Hashing, Dictionaries, and Sets in Python (7 lessons, 19 practices)
+- Sorting and Searching Algorithms in Python (8 lessons, 31 practices)
+- Linked Lists, Stacks, and Queues in Python (7 lessons, 21 practices)
+- Trees, Tries, and Graphs in Python (9 lessons, 28 practices)
+- Dynamic Programming and Advanced Algorithms in Python (6 lessons, 13 practices)
+
+*Observação: Não foi possível acessar a lista detalhada de práticas/algoritmos sem login na plataforma CodeSignal.*
