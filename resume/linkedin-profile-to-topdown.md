@@ -456,8 +456,26 @@ As a Java Tech Lead, I aim to lead by example—driving innovation, empowering t
 #### **GuiaMais**  
 *System Coordinator (July 2007 - October 2016 | São Paulo, SP)*
 - Managed multiple projects using Scrum, enhancing team knowledge in JEE frameworks.
-*Java Architect / Mentoring (February 2004 - June 2007 | São Paulo, SP*
 - Evolved legacy systems, mentoring developers in design patterns and build environments.
+
+*Java Architect / Mentoring (February 2004 - June 2007 | São Paulo, SP*
+- Evolve tecnhology and services of legacy systems.
+- Provide technical and architectural guidance to the architectural team in areas of both design and coding.
+- Giving overall guidance & mentoring on technology strategy to company technical staff.
+- Act as mentor for developer team, helping them in difficulties of programming and determining the architecture. Preparation and training of development - staff in setting the build environment and use Ant and XDoclet. 
+- Software Architect, designing and concepting the architectural of Java project. Using Design Patterns to optimize the implementation and maintaining of source code.
+- Evolve tecnhology and services of legacy systems. Provide technical and architectural guidance to the architectural team in areas of both design and - coding. Giving overall guidance & mentoring on technology strategy to company technical staff. Act as mentor for developer team, helping them in difficulties of programming and determining the architecture. Preparation and training of development staff in setting the build environment and use Ant and XDoclet. I work as Java architect, designing and concepting the architectural of Java project. Using Design Patterns to optimize the implementation and maintaining of source code.
+
+
+### Education  
+#### **Anhanguera Educacional**  
+- **Information Technology Management** (Master of Business Administration - MBA,  Jul 2021 - Dec 2021)  
+
+#### **Fundação Getulio Vargas (FGV)**  
+- **Project Management** (Master of Business Administration - MBA,  Ago 2005 - Jul 2007)  
+
+#### **Centro Universitário Padre Anchieta**  
+- **Computer Science** (Bachelor's degree,  Feb 1994 - Dec1997)  
 
 ### Certifications  
 - **Arquitetura de Software:** Introdução aos Padrões de Projeto  
@@ -473,16 +491,6 @@ As a Java Tech Lead, I aim to lead by example—driving innovation, empowering t
 ### Publications  
 - **Perfil Arquiteto de Sistemas**  
 - **Desenvolvendo uma aplicação Spring Data, REST e H2**  
-
-### Education  
-#### **Anhanguera Educacional**  
-- **Information Technology Management** (Master of Business Administration - MBA,  Jul 2021 - Dec 2021)  
-
-#### **Fundação Getulio Vargas (FGV)**  
-- **Project Management** (Master of Business Administration - MBA,  Ago 2005 - Jul 2007)  
-
-#### **Centro Universitário Padre Anchieta**  
-- **Computer Science** (Bachelor's degree,  Feb 1994 - Dec1997)  
 
 ---
 
